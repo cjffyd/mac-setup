@@ -1,20 +1,21 @@
-iterm2
-alfred
-rectangle
-alt-tab
-firefox-developer-edition
-app-cleaner
-android-file-transfer
-android-platform-tools
-keepingyouawake
-discord
-slack
-vlc
-keka
-kap
-time-out
-gimp
-inkscape
-visual-studio-code
-sublime-text
-insomnia
+SynologyAssistant
+Visual Studio Code
+1Password
+Bartender
+Telegram
+Bob
+Microsoft Remote Desktop
+nrlquaker-winbox
+PyCharm
+ForkLift
+google-chrome
+WeChat
+1Password
+MWeb-Pro
+Setapp
+iTerm
+Goodnotes
+AppCleaner
+Notability
+PDF Expert
+SunloginClient
