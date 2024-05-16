@@ -18,6 +18,6 @@ DOMAIN-SUFFIX,imbc.co.kr
 DOMAIN-SUFFIX,imbc.com
 DOMAIN-KEYWORD,imbc.co.kr
 DOMAIN-KEYWORD,imbc.com
-DOMAIN-SUFFIX,4gtv.tv
-DOMAIN-SUFFIX,4gtvfreemobile-mozai.4gtv.tv
-DOMAIN-KEYWORD,4gtv.tv
+# DOMAIN-SUFFIX,4gtv.tv
+# DOMAIN-SUFFIX,4gtvfreemobile-mozai.4gtv.tv
+# DOMAIN-KEYWORD,4gtv.tv
