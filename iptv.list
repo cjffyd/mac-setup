@@ -24,7 +24,7 @@ DOMAIN-KEYWORD,4gtv.tv
 DOMAIN-KEYWORD,tptv
 DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
 DOMAIN-SUFFIX,tptv.mobaibox.com
-# IP-CIDR,13.112.0.0/14
+IP-CIDR,13.112.0.0/14,no-resolve
 DOMAIN-SUFFIX,hinet.net
-DOMAIN-SUFFIX,livednow.com
+# DOMAIN-SUFFIX,livednow.com
 DOMAIN-SUFFIX,ofiii.com
