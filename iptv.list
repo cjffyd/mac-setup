@@ -26,16 +26,5 @@ DOMAIN-SUFFIX,yangshipin.cn,DIRECT
 DOMAIN-KEYWORD,tptv
 DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
 DOMAIN-SUFFIX,tptv.mobaibox.com
-IP-CIDR,183.206.0.0/15,DIRECT,no-resolve
 DOMAIN-SUFFIX,hinet.net
 # DOMAIN-SUFFIX,livednow.com
-DOMAIN-SUFFIX,ofiii.com
-DOMAIN-SUFFIX,baa.vv6868.online
-IP-CIDR,104.21.234.0/24
-DOMAIN-SUFFIX,zzz.vw6868.online
-DOMAIN-SUFFIX,vw6868.online
-DOMAIN-SUFFIX,vi-ya-7.jivosite.com
-IP-CIDR,119.200.131.0/24
-IP-CIDR.123.140.197.0/24
-DOMAIN-SUFFIX,streamlock.net
-DOMAIN-SUFFIX,xx6868.online
