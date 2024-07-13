@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,4gtvfreemobile-mozai.4gtv.tv
 DOMAIN-KEYWORD,4gtv.tv
 DOMAIN-SUFFIX,cctv.cn,DIRECT
-DOMAIN-SUFFIX,yangshipin.cn,DIRECT
+# DOMAIN-SUFFIX,yangshipin.cn,DIRECT
 DOMAIN-SUFFIX,player-api.yangshipin.cn,DIRECT
 DOMAIN-KEYWORD,tptv
 DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
