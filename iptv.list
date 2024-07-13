@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,4gtvfreemobile-mozai.4gtv.tv
 DOMAIN-KEYWORD,4gtv.tv
 DOMAIN-SUFFIX,cctv.cn,DIRECT
 # DOMAIN-SUFFIX,yangshipin.cn,DIRECT
+IP-CIDR,183.206.0.0/15,DIRECT,no-resolve
 DOMAIN-SUFFIX,player-api.yangshipin.cn,DIRECT
 DOMAIN-KEYWORD,tptv
 DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
