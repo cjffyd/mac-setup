@@ -48,7 +48,7 @@ DOMAIN-SUFFIX,mytvsuper.com,Proxy
 # DOMAIN-SUFFIX,hinet.net
 # DOMAIN-SUFFIX,livednow.com
 # DOMAIN-SUFFIX,vi-ya-7.jivosite.com
-IP-CIDR,154.64.243.131/24,DIRECT,no-resolve
+# IP-CIDR,154.64.243.131/24,DIRECT,no-resolve
 # DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
 DOMAIN-SUFFIX,web6868.com
 DOMAIN-KEYWORD,web6868.com
