@@ -33,7 +33,7 @@ DOMAIN-SUFFIX,mobilelive-ds.ysp.cctv.cn
 IP-CIDR,183.206.0.0/15,DIRECT,no-resolve
 IP-CIDR,223.5.5.5/32,DIRECT,no-resolve
 IP-CIDR,43.132.64.50/32,DIRECT,no-resolve
- DOMAIN-SUFFIX,livednow.com,Proxy
+DOMAIN-SUFFIX,livednow.com,Proxy
 DOMAIN-SUFFIX,orz-7.com,Proxy
 DOMAIN-SUFFIX,4gtv.tv,Proxy
 DOMAIN-SUFFIX,hinet.net,Proxy
@@ -48,7 +48,7 @@ DOMAIN-SUFFIX,mytvsuper.com,Proxy
 # DOMAIN-SUFFIX,hinet.net
 # DOMAIN-SUFFIX,livednow.com
 # DOMAIN-SUFFIX,vi-ya-7.jivosite.com
-# IP-CIDR,154.64.243.131/24
+IP-CIDR,154.64.243.131/24,DIRECT,no-resolve
 # DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
 DOMAIN-SUFFIX,web6868.com
 DOMAIN-KEYWORD,web6868.com
