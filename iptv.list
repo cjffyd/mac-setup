@@ -53,3 +53,5 @@ DOMAIN-SUFFIX,mytvsuper.com,Proxy
 DOMAIN-SUFFIX,web6868.com
 DOMAIN-KEYWORD,web6868.com
 DOMAIN-SUFFIX,tv6868.com
+DOMAIN-SUFFIX,live.hkdvb.com,DIRECT
+DOMAIN-SUFFIX,info.hkanimal.com,DIRECT
