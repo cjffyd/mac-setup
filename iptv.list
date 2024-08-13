@@ -6,21 +6,21 @@
 # DOMAIN-SUFFIX: 22
 # USER-AGENT: 1
 # TOTAL: 24
-DOMAIN-SUFFIX,176868.cloud
-DOMAIN-SUFFIX,276868.cloud
-DOMAIN-SUFFIX,stream-link.org
-DOMAIN-SUFFIX,stream-link.online
-DOMAIN-SUFFIX,2024long03.stream-link.onlin
-DOMAIN-SUFFIX,error2024.stream-link.online
-DOMAIN-SUFFIX,sc2024.stream-link.org
-DOMAIN-KEYWORD,stream-link
-DOMAIN-SUFFIX,imbc.co.kr
-DOMAIN-SUFFIX,imbc.com
-DOMAIN-KEYWORD,imbc.co.kr
-DOMAIN-KEYWORD,imbc.com
-DOMAIN-SUFFIX,4gtv.tv
-DOMAIN-SUFFIX,4gtvfreemobile-mozai.4gtv.tv
-DOMAIN-KEYWORD,4gtv.tv
+DOMAIN-SUFFIX,176868.cloud,Proxy
+DOMAIN-SUFFIX,276868.cloud,Proxy
+DOMAIN-SUFFIX,stream-link.org,Proxy
+DOMAIN-SUFFIX,stream-link.online,Proxy
+DOMAIN-SUFFIX,2024long03.stream-link.onlin,Proxy
+DOMAIN-SUFFIX,error2024.stream-link.online,Proxy
+DOMAIN-SUFFIX,sc2024.stream-link.org,Proxy
+DOMAIN-KEYWORD,stream-link,Proxy
+DOMAIN-SUFFIX,imbc.co.kr,Proxy
+DOMAIN-SUFFIX,imbc.com,Proxy
+DOMAIN-KEYWORD,imbc.co.kr,Proxy
+DOMAIN-KEYWORD,imbc.com,Proxy
+DOMAIN-SUFFIX,4gtv.tv,Proxy
+DOMAIN-SUFFIX,4gtvfreemobile-mozai.4gtv.tv,Proxy
+DOMAIN-KEYWORD,4gtv.tv,Proxy
 
 #DOMAIN-SUFFIX,dnsany.com,DIRECT
 #DOMAIN-SUFFIX,cmvideo.cn,DIRECT
@@ -50,8 +50,8 @@ DOMAIN-SUFFIX,mytvsuper.com,Proxy
 # DOMAIN-SUFFIX,vi-ya-7.jivosite.com
 # IP-CIDR,154.64.243.131/24,DIRECT,no-resolve
 # DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
-DOMAIN-SUFFIX,web6868.com
-DOMAIN-KEYWORD,web6868.com
-DOMAIN-SUFFIX,tv6868.com
+DOMAIN-SUFFIX,web6868.com,Proxy
+DOMAIN-KEYWORD,web6868.com,Proxy
+DOMAIN-SUFFIX,tv6868.com,Proxy
 # DOMAIN-SUFFIX,live.hkdvb.com,DIRECT
 # DOMAIN-SUFFIX,info.hkanimal.com,DIRECT
