@@ -56,7 +56,7 @@ IP-CIDR,123.254.72.24/32,Proxy
 
 # 海外
 DOMAIN-SUFFIX,thetvapp.to,Proxy
-
+DOMAIN-SUFFIX,web.thetv.orz-7.com,Proxy
 # DOMAIN-SUFFIX,googlevideo.com,Proxy
 # DOMAIN-SUFFIX,youtube.com,Proxy
 
