@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,ythls.armelin.one,Proxy
 DOMAIN-SUFFIX,cdntv.tbs.seoul.kr,Proxy
 DOMAIN-SUFFIX,mytv.dothome.co.kr,Proxy
 DOMAIN-SUFFIX,hlive.ktv.go.kr,Proxy
-
+DOMAIN-SUFFIX,jcnonair-1108.acs.wecandeo.com,Proxy
 
 #DOMAIN-SUFFIX,dnsany.com,DIRECT
 #DOMAIN-SUFFIX,cmvideo.cn,DIRECT
