@@ -33,6 +33,9 @@ DOMAIN-KEYWORD,4gtv.tv,Proxy
 #IP-CIDR,183.206.0.0/15,DIRECT,no-resolve
 #IP-CIDR,223.5.5.5/32,DIRECT,no-resolve
 #IP-CIDR,43.132.64.50/32,DIRECT,no-resolve
+IP-CIDR,1.245.74.5/32,Proxy
+
+
 DOMAIN-SUFFIX,livednow.com,Proxy
 DOMAIN-SUFFIX,orz-7.com,Proxy
 DOMAIN-SUFFIX,4gtv.tv,Proxy
