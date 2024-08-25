@@ -6,6 +6,8 @@
 # DOMAIN-SUFFIX: 22
 # USER-AGENT: 1
 # TOTAL: 24
+
+# 港台节目
 DOMAIN-SUFFIX,176868.cloud,Proxy
 DOMAIN-SUFFIX,276868.cloud,Proxy
 DOMAIN-SUFFIX,stream-link.org,Proxy
@@ -14,19 +16,32 @@ DOMAIN-SUFFIX,2024long03.stream-link.onlin,Proxy
 DOMAIN-SUFFIX,error2024.stream-link.online,Proxy
 DOMAIN-SUFFIX,sc2024.stream-link.org,Proxy
 DOMAIN-KEYWORD,stream-link,Proxy
+DOMAIN-SUFFIX,mytvsuper.com,Proxy
+DOMAIN-SUFFIX,ofiii.com,Proxy
+DOMAIN-SUFFIX,web6868.com,Proxy
+DOMAIN-KEYWORD,web6868.com,Proxy
+DOMAIN-SUFFIX,tv6868.com,Proxy
+DOMAIN-SUFFIX,4gtv.tv,Proxy
+DOMAIN-SUFFIX,4gtvfreemobile-mozai.4gtv.tv,Proxy
+DOMAIN-KEYWORD,4gtv.tv,Proxy
+DOMAIN-SUFFIX,livednow.com,Proxy
+DOMAIN-SUFFIX,orz-7.com,Proxy
+DOMAIN-SUFFIX,hinet.net,Proxy
+
+# 韩国节目
 DOMAIN-SUFFIX,imbc.co.kr,Proxy
 DOMAIN-SUFFIX,imbc.com,Proxy
 DOMAIN-KEYWORD,imbc.co.kr,Proxy
 DOMAIN-KEYWORD,imbc.com,Proxy
-DOMAIN-SUFFIX,4gtv.tv,Proxy
-DOMAIN-SUFFIX,4gtvfreemobile-mozai.4gtv.tv,Proxy
-DOMAIN-KEYWORD,4gtv.tv,Proxy
 DOMAIN-SUFFIX,ythls.armelin.one,Proxy
 DOMAIN-SUFFIX,cdntv.tbs.seoul.kr,Proxy
 DOMAIN-SUFFIX,mytv.dothome.co.kr,Proxy
 DOMAIN-SUFFIX,hlive.ktv.go.kr,Proxy
 DOMAIN-SUFFIX,jcnonair-1108.acs.wecandeo.com,Proxy
+IP-CIDR,1.245.74.5/32,Proxy
+IP-CIDR,123.254.72.24/32,Proxy
 
+# 国内节目
 #DOMAIN-SUFFIX,dnsany.com,DIRECT
 #DOMAIN-SUFFIX,cmvideo.cn,DIRECT
 #DOMAIN-SUFFIX,chinamobile.com,DIRECT
@@ -38,18 +53,10 @@ DOMAIN-SUFFIX,jcnonair-1108.acs.wecandeo.com,Proxy
 #IP-CIDR,183.206.0.0/15,DIRECT,no-resolve
 #IP-CIDR,223.5.5.5/32,DIRECT,no-resolve
 #IP-CIDR,43.132.64.50/32,DIRECT,no-resolve
-IP-CIDR,1.245.74.5/32,Proxy
-IP-CIDR,123.254.72.24/32,Proxy
 
 
-DOMAIN-SUFFIX,livednow.com,Proxy
-DOMAIN-SUFFIX,orz-7.com,Proxy
-DOMAIN-SUFFIX,4gtv.tv,Proxy
-DOMAIN-SUFFIX,hinet.net,Proxy
-DOMAIN-SUFFIX,ofiii.com,Proxy
 # DOMAIN-SUFFIX,googlevideo.com,Proxy
 # DOMAIN-SUFFIX,youtube.com,Proxy
-DOMAIN-SUFFIX,mytvsuper.com,Proxy
 
 # DOMAIN-KEYWORD,tptv
 # DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
@@ -59,8 +66,5 @@ DOMAIN-SUFFIX,mytvsuper.com,Proxy
 # DOMAIN-SUFFIX,vi-ya-7.jivosite.com
 # IP-CIDR,154.64.243.131/24,DIRECT,no-resolve
 # DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
-DOMAIN-SUFFIX,web6868.com,Proxy
-DOMAIN-KEYWORD,web6868.com,Proxy
-DOMAIN-SUFFIX,tv6868.com,Proxy
 # DOMAIN-SUFFIX,live.hkdvb.com,DIRECT
 # DOMAIN-SUFFIX,info.hkanimal.com,DIRECT
