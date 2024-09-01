@@ -1,15 +1,13 @@
 # NAME: IPTV
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-04-22 16:03:00
+# AUTHOR: Martin Kim
+# REPO: https://github.com/cjffyd/mac-setup/blob/main/iptv.list
+# UPDATED: 2024-08-31 16:03:00
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 22
 # USER-AGENT: 1
 # TOTAL: 24
 
 # 港台节目
-DOMAIN-SUFFIX,176868.cloud,Proxy
-DOMAIN-SUFFIX,276868.cloud,Proxy
 DOMAIN-SUFFIX,stream-link.org,Proxy
 DOMAIN-SUFFIX,stream-link.online,Proxy
 DOMAIN-SUFFIX,2024long03.stream-link.onlin,Proxy
@@ -18,9 +16,6 @@ DOMAIN-SUFFIX,sc2024.stream-link.org,Proxy
 DOMAIN-KEYWORD,stream-link,Proxy
 DOMAIN-SUFFIX,mytvsuper.com,Proxy
 DOMAIN-SUFFIX,ofiii.com,Proxy
-DOMAIN-SUFFIX,web6868.com,Proxy
-DOMAIN-KEYWORD,web6868.com,Proxy
-DOMAIN-SUFFIX,tv6868.com,Proxy
 DOMAIN-SUFFIX,4gtv.tv,Proxy
 DOMAIN-SUFFIX,4gtvfreemobile-mozai.4gtv.tv,Proxy
 DOMAIN-KEYWORD,4gtv.tv,Proxy
@@ -33,7 +28,11 @@ DOMAIN-SUFFIX,cookery.cookeryvideo.website,Proxy
 DOMAIN-SUFFIX,cookery.cookeryvideo.fun,Proxy
 DOMAIN-SUFFIX,cookery.cookeryvideo.online,Proxy
 DOMAIN-SUFFIX,bicyclefurnishings.shop,Proxy
-
+DOMAIN-SUFFIX,web6868.com,Proxy
+DOMAIN-KEYWORD,web6868.com,Proxy
+DOMAIN-SUFFIX,tv6868.com,Proxy
+DOMAIN-SUFFIX,176868.cloud,Proxy
+DOMAIN-SUFFIX,276868.cloud,Proxy
 
 # 韩国节目
 DOMAIN-SUFFIX,imbc.co.kr,Proxy
