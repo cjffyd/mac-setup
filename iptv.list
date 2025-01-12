@@ -54,7 +54,7 @@ IP-CIDR,142.251.0.0/8, Proxy
 IP-CIDR,142.250.0.0/8,Proxy
 IP-CIDR,162.159.0.0/8,Proxy
 IP-CIDR,108.181.0.0/8,Proxy
-IP-CIDR,202.126.54.112/8,Proxy
+# IP-CIDR,202.126.54.112/8,Proxy
 # 韩国节目
 DOMAIN-SUFFIX,imbc.co.kr,Proxy
 DOMAIN-SUFFIX,imbc.com,Proxy
