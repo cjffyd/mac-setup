@@ -1,0 +1,13 @@
+# NAME: Martin
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:16:44
+# DOMAIN-SUFFIX: 3
+# USER-AGENT: 2
+# TOTAL: 5
+
+DOMAIN-SUFFIX,starvod.xyz,DIRECT
+DOMAIN-SUFFIX,test.hkmlqxg.xyz,DIRECT
+IP-CIDR,51.81.235.69/8,DIRECT
+IP-CIDR,23.175.145.60/8,DIRECT
+IP-CIDR,51.81.206.72/8,DIRECT
