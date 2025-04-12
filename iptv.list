@@ -91,10 +91,10 @@ DOMAIN-SUFFIX,v3.thetvapp.to,Proxy
 # DOMAIN-SUFFIX,googlevideo.com,Proxy
 # DOMAIN-SUFFIX,youtube.com,Proxy
 
-# DOMAIN-KEYWORD,tptv
-# DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
-# DOMAIN-SUFFIX,tptv.mobaibox.com
-# DOMAIN-SUFFIX,hinet.net
+DOMAIN-KEYWORD,tptv
+DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
+DOMAIN-SUFFIX,tptv.mobaibox.com
+DOMAIN-SUFFIX,hinet.net,🇨🇳 台湾节点
 # DOMAIN-SUFFIX,livednow.com
 # DOMAIN-SUFFIX,vi-ya-7.jivosite.com
 # IP-CIDR,154.64.243.131/24,DIRECT,no-resolve
