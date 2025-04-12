@@ -16,12 +16,12 @@ DOMAIN-SUFFIX,sc2024.stream-link.org,Proxy
 DOMAIN-KEYWORD,stream-link,Proxy
 DOMAIN-SUFFIX,mytvsuper.com,Proxy
 DOMAIN-SUFFIX,ofiii.com,Proxy
-DOMAIN-SUFFIX,4gtv.tv,Proxy
-DOMAIN-SUFFIX,4gtvfreemobile-mozai.4gtv.tv,Proxy
-DOMAIN-KEYWORD,4gtv.tv,Proxy
+DOMAIN-SUFFIX,4gtv.tv, 🇨🇳 台湾节点
+DOMAIN-SUFFIX,4gtvfreemobile-mozai.4gtv.tv,🇨🇳 台湾节点
+DOMAIN-KEYWORD,4gtv.tv,🇨🇳 台湾节点
 DOMAIN-SUFFIX,livednow.com,Proxy
 DOMAIN-SUFFIX,orz-7.com,Proxy
-DOMAIN-SUFFIX,hinet.net,Proxy
+DOMAIN-SUFFIX,hinet.net,🇨🇳 台湾节点
 # 176868 节目
 DOMAIN-SUFFIX,cookery.cookeryvideo.website,Proxy
 DOMAIN-SUFFIX,cookery.cookeryvideo.fun,Proxy
@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,scooterfurnish.store,Proxy
 DOMAIN-SUFFIX,hyperdash1333.online,Proxy
 DOMAIN-SUFFIX,linescoinplant.com,Proxy
 DOMAIN-SUFFIX,xx6868.online,Proxy
+DOMAIN-SUFFIX,prod-2.143104.com,Proxy
 IP-CIDR,104.26.15.221/32,Proxy
 IP-CIDR,172.67.171.90/32,Proxy
 IP-CIDR,104.21.0.0/8,Proxy
@@ -91,11 +92,11 @@ DOMAIN-SUFFIX,v3.thetvapp.to,Proxy
 # DOMAIN-SUFFIX,googlevideo.com,Proxy
 # DOMAIN-SUFFIX,youtube.com,Proxy
 
-DOMAIN-KEYWORD,hinet.net
-DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
-DOMAIN-SUFFIX,tptv.mobaibox.com
-DOMAIN-SUFFIX,hinet.net,🇨🇳 台湾节点
-DOMAIN-SUFFIX,4gtv.tv,🇨🇳 台湾节点
+# DOMAIN-KEYWORD,hinet.net
+# DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
+# DOMAIN-SUFFIX,tptv.mobaibox.com
+# DOMAIN-SUFFIX,hinet.net,🇨🇳 台湾节点
+# DOMAIN-SUFFIX,4gtv.tv,🇨🇳 台湾节点
 
 
 # DOMAIN-SUFFIX,livednow.com
