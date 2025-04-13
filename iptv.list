@@ -16,12 +16,12 @@ DOMAIN-SUFFIX,sc2024.stream-link.org,Proxy
 DOMAIN-KEYWORD,stream-link,Proxy
 DOMAIN-SUFFIX,mytvsuper.com,Proxy
 DOMAIN-SUFFIX,ofiii.com,Proxy
-DOMAIN-SUFFIX,4gtv.tv, 🇨🇳 台湾节点
-DOMAIN-SUFFIX,4gtvfreemobile-mozai.4gtv.tv,🇨🇳 台湾节点
-DOMAIN-KEYWORD,4gtv.tv,🇨🇳 台湾节点
+DOMAIN-SUFFIX,4gtv.tv, Proxy
+DOMAIN-SUFFIX,4gtvfreemobile-mozai.4gtv.tv, Proxy
+DOMAIN-KEYWORD,4gtv.tv,Proxy
 DOMAIN-SUFFIX,livednow.com,Proxy
 DOMAIN-SUFFIX,orz-7.com,Proxy
-DOMAIN-SUFFIX,hinet.net,🇨🇳 台湾节点
+DOMAIN-SUFFIX,hinet.net,Proxy
 # 176868 节目
 DOMAIN-SUFFIX,cookery.cookeryvideo.website,Proxy
 DOMAIN-SUFFIX,cookery.cookeryvideo.fun,Proxy
@@ -33,7 +33,6 @@ DOMAIN-SUFFIX,tv6868.com,Proxy
 DOMAIN-SUFFIX,176868.cloud,Proxy
 DOMAIN-SUFFIX,notescrassula.com,Proxy
 DOMAIN-SUFFIX,scooterfurnish.store,Proxy
-# 176868.cloud
 DOMAIN-SUFFIX,276868.cloud,Proxy
 DOMAIN-SUFFIX,notessedum.com,Proxy
 DOMAIN-SUFFIX,store.bicyclefurnishings.store,Proxy
