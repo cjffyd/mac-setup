@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,ofiii.com,Proxy
 DOMAIN-SUFFIX,4gtv.tv,"🇨🇳 台湾节点"
 DOMAIN-SUFFIX,4gtvfreemobile-mozai.4gtv.tv,"🇨🇳 台湾节点"
 DOMAIN-KEYWORD,4gtv.tv,"🇨🇳 台湾节点"
-DOMAIN-SUFFIX,livednow.com,"🇨🇳 台湾节点"
 DOMAIN-SUFFIX,orz-7.com,Proxy
 DOMAIN-SUFFIX,hinet.net,"🇨🇳 台湾节点"
 # 176868 节目
@@ -27,8 +26,7 @@ DOMAIN-SUFFIX,cookery.cookeryvideo.website,Proxy
 DOMAIN-SUFFIX,cookery.cookeryvideo.fun,Proxy
 DOMAIN-SUFFIX,cookery.cookeryvideo.online,Proxy
 DOMAIN-SUFFIX,bicyclefurnishings.shop,Proxy
-DOMAIN-SUFFIX,web6868.com,Proxy
-DOMAIN-KEYWORD,web6868.com,Proxy
+# DOMAIN-KEYWORD,web6868.com,Proxy
 DOMAIN-SUFFIX,tv6868.com,Proxy
 DOMAIN-SUFFIX,176868.cloud,Proxy
 DOMAIN-SUFFIX,notescrassula.com,Proxy
