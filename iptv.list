@@ -27,8 +27,9 @@ DOMAIN-SUFFIX,cookery.cookeryvideo.fun,Proxy
 DOMAIN-SUFFIX,cookery.cookeryvideo.online,Proxy
 DOMAIN-SUFFIX,bicyclefurnishings.shop,Proxy
 # DOMAIN-KEYWORD,web6868.com,Proxy
-DOMAIN-SUFFIX,tiktok.shipmodelnotes.website
-DOMAIN-SUFFIX,tiktok.shipmodelnotes.site
+DOMAIN-KEYWORD,shipmodelnotes.website,Proxy
+DOMAIN-SUFFIX,tiktok.shipmodelnotes.website,Proxy
+DOMAIN-SUFFIX,tiktok.shipmodelnotes.site,Proxy
 DOMAIN-SUFFIX,tv6868.com,Proxy
 DOMAIN-SUFFIX,176868.cloud,Proxy
 DOMAIN-SUFFIX,notescrassula.com,Proxy
