@@ -1,18 +1,39 @@
-DOMAIN-SUFFIX,imbc.co.kr
-DOMAIN-SUFFIX,imbc.com
-DOMAIN-KEYWORD,imbc.co.kr
-DOMAIN-KEYWORD,imbc.com
-DOMAIN-SUFFIX,abn.co.kr
-DOMAIN-SUFFIX,armelin.one
-DOMAIN-SUFFIX,edgesuite.net
-DOMAIN-SUFFIX,jp-primehome.com
-DOMAIN-SUFFIX,clouducs.com
-DOMAIN-SUFFIX,bloomberg.com
-DOMAIN-SUFFIX,nowcdn.co.kr
-DOMAIN-SUFFIX,fgtv.com
-DOMAIN-SUFFIX,dothome.co.kr
-DOMAIN-SUFFIX,bsmbc.com
-DOMAIN-SUFFIX,chmbc.co.kr
-DOMAIN-SUFFIX,streamlock.net
-DOMAIN-SUFFIX,obs.co.kr
-DOMAIN-SUFFIX,ktv.go.kr
+# NAME: Korea
+# AUTHOR: Martin Kim
+# REPO: https://github.com/cjffyd/mac-setup/blob/main/iptv.list
+# UPDATED: 2024-08-31 16:03:00
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 22
+# USER-AGENT: 1
+# TOTAL: 24
+
+
+DOMAIN-SUFFIX,imbc.co.kr,Proxy
+DOMAIN-SUFFIX,imbc.com,Proxy
+DOMAIN-KEYWORD,imbc.co.kr,Proxy
+DOMAIN-KEYWORD,imbc.com,Proxy
+DOMAIN-SUFFIX,abn.co.kr,Proxy
+DOMAIN-SUFFIX,armelin.one,Proxy
+DOMAIN-SUFFIX,edgesuite.net,Proxy
+DOMAIN-SUFFIX,jp-primehome.com,Proxy
+DOMAIN-SUFFIX,clouducs.com,Proxy
+DOMAIN-SUFFIX,bloomberg.com,Proxy
+DOMAIN-SUFFIX,nowcdn.co.kr,Proxy
+DOMAIN-SUFFIX,fgtv.com,Proxy
+DOMAIN-SUFFIX,dothome.co.kr,Proxy
+DOMAIN-SUFFIX,bsmbc.com,Proxy
+DOMAIN-SUFFIX,chmbc.co.kr,Proxy
+DOMAIN-SUFFIX,streamlock.net,Proxy
+DOMAIN-SUFFIX,obs.co.kr,Proxy
+DOMAIN-SUFFIX,ktv.go.kr,Proxy
+
+DOMAIN-SUFFIX,adapi.about.co.k,REJECT
+DOMAIN-SUFFIX,netinsight.co.kr,REJECT
+
+DOMAIN,ad4989.co.kr,REJECT
+DOMAIN-SUFFIX,dcinside.co.kr,,Proxy
+DOMAIN-SUFFIX,dcinside.com,,Proxy
+DOMAIN-SUFFIX,ppomppu.co.kr,,Proxy
+DOMAIN-SUFFIX,clien.net,,Proxy
+DOMAIN-SUFFIX,humoruniv.com,,Proxy
+DOMAIN-SUFFIX,theqoo.net,,Proxy
