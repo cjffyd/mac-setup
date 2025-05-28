@@ -29,11 +29,12 @@ DOMAIN-SUFFIX,ktv.go.kr,Proxy
 
 DOMAIN-SUFFIX,adapi.about.co.k,REJECT
 DOMAIN-SUFFIX,netinsight.co.kr,REJECT
-
 DOMAIN,ad4989.co.kr,REJECT
-DOMAIN-SUFFIX,dcinside.co.kr,,Proxy
-DOMAIN-SUFFIX,dcinside.com,,Proxy
-DOMAIN-SUFFIX,ppomppu.co.kr,,Proxy
-DOMAIN-SUFFIX,clien.net,,Proxy
-DOMAIN-SUFFIX,humoruniv.com,,Proxy
-DOMAIN-SUFFIX,theqoo.net,,Proxy
+
+DOMAIN-SUFFIX,dcinside.co.kr,Proxy
+DOMAIN-SUFFIX,dcinside.com,Proxy
+DOMAIN-SUFFIX,ppomppu.co.kr,Proxy
+DOMAIN-SUFFIX,clien.net,Proxy
+DOMAIN-SUFFIX,humoruniv.com,Proxy
+DOMAIN-SUFFIX,theqoo.net,Proxy
+DOMAIN-SUFFIX,ddanzi.com,Proxy
