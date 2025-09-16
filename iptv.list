@@ -36,6 +36,8 @@ DOMAIN-SUFFIX,xx6868.online,Proxy
 DOMAIN-SUFFIX,prod-2.143104.com,Proxy
 DOMAIN-SUFFIX,geminibooks.shop,Proxy
 DOMAIN-SUFFIX,a594695752.xyz,Proxy
+DOMAIN-SUFFIX,spreadsheetsbooks.site,Proxy
+
 IP-CIDR,104.26.15.221/32,Proxy
 IP-CIDR,172.67.171.90/32,Proxy
 IP-CIDR,104.21.0.0/8,Proxy
