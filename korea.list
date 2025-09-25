@@ -39,4 +39,6 @@ DOMAIN-SUFFIX,humoruniv.com,Proxy
 DOMAIN-SUFFIX,theqoo.net,Proxy
 DOMAIN-SUFFIX,ddanzi.com,Proxy
 DOMAIN-SUFFIX,www.ddanzi.com,Proxy
+DOMAIN-SUFFIX,adpnut.com,Proxy
+DOMAIN-KEYWORD,ddanzi
 # DOMAIN-SUFFIX,naver.com,Proxy
