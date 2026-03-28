@@ -1,11 +1,11 @@
 # NAME: IPTV
 # AUTHOR: Martin Kim
 # REPO: https://github.com/cjffyd/mac-setup/blob/main/iptv.list
-# UPDATED: 2024-08-31 16:03:00
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 22
-# USER-AGENT: 1
-# TOTAL: 24
+# UPDATED: 2026-03-28 00:10:00
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 40
+# USER-AGENT: 0
+# TOTAL: 45
 
 # 港台节目
 DOMAIN-SUFFIX,mytvsuper.com,Proxy
@@ -16,8 +16,8 @@ DOMAIN-SUFFIX,cookery.cookeryvideo.fun,Proxy
 DOMAIN-SUFFIX,cookery.cookeryvideo.online,Proxy
 DOMAIN-SUFFIX,bicyclefurnishings.shop,Proxy
 # DOMAIN-KEYWORD,web6868.com,Proxy
-DOMAIN-KEYWORD,TikTok.shipmodelnotes.website,Proxy
-DOMAIN-KEYWORD,TikTok.shipmodelnotes.site,Proxy
+DOMAIN-SUFFIX,tiktok.shipmodelnotes.website,Proxy
+DOMAIN-SUFFIX,tiktok.shipmodelnotes.site,Proxy
 DOMAIN-SUFFIX,tv6868.com,Proxy
 DOMAIN-SUFFIX,176868.cloud,Proxy
 DOMAIN-SUFFIX,notescrassula.com,Proxy
@@ -26,10 +26,10 @@ DOMAIN-SUFFIX,276868.cloud,Proxy
 DOMAIN-SUFFIX,notessedum.com,Proxy
 DOMAIN-SUFFIX,store.bicyclefurnishings.store,Proxy
 DOMAIN-SUFFIX,linearjitp901.notescrassula.com,Proxy
+DOMAIN-SUFFIX,cookeryvideo.fun,Proxy
 DOMAIN-SUFFIX,ookeryvideo.fun,Proxy
 DOMAIN-SUFFIX,bambooplayer.com,Proxy
 DOMAIN-SUFFIX,scooterfurnish.shop,Proxy
-DOMAIN-SUFFIX,scooterfurnish.store,Proxy
 DOMAIN-SUFFIX,hyperdash1333.online,Proxy
 DOMAIN-SUFFIX,linescoinplant.com,Proxy
 DOMAIN-SUFFIX,xx6868.online,Proxy
@@ -42,26 +42,18 @@ DOMAIN-SUFFIX,listbooks.fun,Proxy
 # IP
 IP-CIDR,104.26.15.221/32,Proxy
 IP-CIDR,172.67.171.90/32,Proxy
-IP-CIDR,104.21.0.0/8,Proxy
 IP-CIDR,172.67.206.124/32,Proxy
-IP-CIDR,172.67.0.0/8,Proxy
-IP-CIDR,101.227.12.8/8,Proxy
-IP-CIDR,142.251.0.0/8, Proxy
-IP-CIDR,142.250.0.0/8,Proxy
-IP-CIDR,162.159.0.0/8,Proxy
-IP-CIDR,108.181.0.0/8,Proxy
 
 DOMAIN-SUFFIX,mytvsuper.xyz,Proxy
 # IP-CIDR,202.126.54.112/8,Proxy
 # 韩国节目
 DOMAIN-SUFFIX,imbc.co.kr,Proxy
 DOMAIN-SUFFIX,imbc.com,Proxy
-DOMAIN-KEYWORD,imbc.co.kr,Proxy
-DOMAIN-KEYWORD,imbc.com,Proxy
 DOMAIN-SUFFIX,ythls.armelin.one,Proxy
 DOMAIN-SUFFIX,cdntv.tbs.seoul.kr,Proxy
 DOMAIN-SUFFIX,mytv.dothome.co.kr,Proxy
-DOMAIN-SUFFIX,hlive.ktv.go.kr,Proxy
+DOMAIt
+:-SUFFIX,hlive.ktv.go.kr,Proxy
 DOMAIN-SUFFIX,jcnonair-1108.acs.wecandeo.com,Proxy
 IP-CIDR,1.245.74.5/32,Proxy
 IP-CIDR,123.254.72.24/32,Proxy
