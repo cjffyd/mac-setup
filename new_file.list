@@ -1,0 +1,24 @@
+# NAME: IPTV (Aggressive Minimal)
+# AUTHOR: Martin Kim
+# REPO: https://github.com/cjffyd/mac-setup/blob/main/new_file.list
+# UPDATED: 2026-03-28 00:20:00
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 10
+# USER-AGENT: 0
+# TOTAL: 10
+
+# 港台节目
+DOMAIN-SUFFIX,mytvsuper.com,Proxy
+DOMAIN-SUFFIX,mytvsuper.xyz,Proxy
+DOMAIN-SUFFIX,ofiii.com,Proxy
+DOMAIN-SUFFIX,tv6868.com,Proxy
+DOMAIN-SUFFIX,bambooplayer.com,Proxy
+
+# 韩国节目
+DOMAIN-SUFFIX,imbc.co.kr,Proxy
+DOMAIN-SUFFIX,imbc.com,Proxy
+
+# 海外
+DOMAIN-SUFFIX,thetvapp.to,Proxy
+DOMAIN-SUFFIX,v3.thetvapp.to,Proxy
+DOMAIN-SUFFIX,web.thetv.orz-7.com,Proxy
