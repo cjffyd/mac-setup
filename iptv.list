@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,geminibooks.shop,Proxy
 DOMAIN-SUFFIX,spreadsheetsbooks.site,Proxy
 DOMAIN-SUFFIX,spreadsheetsbooks.fun,Proxy
 DOMAIN-SUFFIX,listbooks.fun,Proxy
+DOMAIN-SUFFIX,listbooks.store
 # IP
 IP-CIDR,104.26.15.221/32,Proxy
 IP-CIDR,172.67.171.90/32,Proxy
