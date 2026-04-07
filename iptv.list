@@ -11,33 +11,17 @@
 DOMAIN-SUFFIX,mytvsuper.com,Proxy
 DOMAIN-SUFFIX,ofiii.com,Proxy
 # 176868 节目
-DOMAIN-KEYWORD,epithelialcell,Proxy
-DOMAIN-SUFFIX,cookery.cookeryvideo.website,Proxy
-DOMAIN-SUFFIX,cookery.cookeryvideo.fun,Proxy
-DOMAIN-SUFFIX,cookery.cookeryvideo.online,Proxy
-DOMAIN-SUFFIX,bicyclefurnishings.shop,Proxy
 # DOMAIN-KEYWORD,web6868.com,Proxy
 DOMAIN-SUFFIX,listbooks.site,Proxy  
-DOMAIN-SUFFIX,tiktok.shipmodelnotes.website,Proxy
-DOMAIN-SUFFIX,tiktok.shipmodelnotes.site,Proxy
 DOMAIN-SUFFIX,tv6868.com,Proxy
 DOMAIN-SUFFIX,176868.cloud,Proxy
-DOMAIN-SUFFIX,notescrassula.com,Proxy
-DOMAIN-SUFFIX,scooterfurnish.store,Proxy
 DOMAIN-SUFFIX,276868.cloud,Proxy
 DOMAIN-SUFFIX,notessedum.com,Proxy
-DOMAIN-SUFFIX,store.bicyclefurnishings.store,Proxy
 DOMAIN-SUFFIX,linearjitp901.notescrassula.com,Proxy
-DOMAIN-SUFFIX,cookeryvideo.fun,Proxy
-DOMAIN-SUFFIX,ookeryvideo.fun,Proxy
 DOMAIN-SUFFIX,bambooplayer.com,Proxy
-DOMAIN-SUFFIX,scooterfurnish.shop,Proxy
-DOMAIN-SUFFIX,hyperdash1333.online,Proxy
 DOMAIN-SUFFIX,linescoinplant.com,Proxy
-DOMAIN-SUFFIX,xx6868.online,Proxy
 DOMAIN-SUFFIX,prod-2.143104.com,Proxy
 DOMAIN-SUFFIX,geminibooks.shop,Proxy
-DOMAIN-SUFFIX,a594695752.xyz,Proxy
 DOMAIN-SUFFIX,spreadsheetsbooks.site,Proxy
 DOMAIN-SUFFIX,spreadsheetsbooks.fun,Proxy
 DOMAIN-SUFFIX,listbooks.fun,Proxy
@@ -62,5 +46,4 @@ IP-CIDR,123.254.72.24/32,Proxy
 
 # 海外
 DOMAIN-SUFFIX,thetvapp.to,Proxy
-DOMAIN-SUFFIX,web.thetv.orz-7.com,Proxy
 DOMAIN-SUFFIX,v3.thetvapp.to,Proxy
