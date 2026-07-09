@@ -34,7 +34,7 @@ DOMAIN-SUFFIX,newbellbox.site,Proxy
 DOMAIN-SUFFIX,clodehugtiger.store,Proxy
 DOMAIN-SUFFIX,clodehugtiger.site,Proxy
 DOMAIN-SUFFIX,web6868.com,Proxy
-
+DOMAIN-SUFFIX,greennowhour.site,Proxy
 # IP
 IP-CIDR,104.26.15.221/32,Proxy
 IP-CIDR,172.67.171.90/32,Proxy
