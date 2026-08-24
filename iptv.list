@@ -36,21 +36,19 @@ DOMAIN-SUFFIX,clodehugtiger.site,Proxy
 DOMAIN-SUFFIX,web6868.com,Proxy
 DOMAIN-SUFFIX,greennowhour.site,Proxy
 DOMAIN-SUFFIX,greennowminute.store,Proxy
-DOMAIN-SUFFIX,luckycupcake.site,Proxy
+DOMAIN-SUFFIX, luckycupcake.site,Proxy
 
 # IP
-# IP-CIDR,104.26.15.221/16,Proxy
-# IP-CIDR,172.67.171.90/16,Proxy
-# IP-CIDR,172.67.206.124/16,Proxy
-# IP-CIDR,104.21.88.140/16,Proxy,no-resolve
-# IP-CIDR,104.21.23.155/16,Proxy,no-resolve
-# IP-CIDR,172.67.136.78/16,Proxy,no-resolve
-# IP-CIDR,172.67.180.124/16,Proxy,no-resolve
-# IP-CIDR,104.21.94.130/16,Proxy,no-resolve
-# IP-CIDR,182.254.118.118/16,Proxy
-# 172.67.182.69
+# IP-CIDR,104.26.15.221/32,Proxy
+# IP-CIDR,172.67.171.90/32,Proxy
+# IP-CIDR,172.67.206.124/32,Proxy
+# IP-CIDR,104.21.88.140/32,IPTV,no-resolve
+# IP-CIDR,104.21.23.155/32,IPTV,no-resolve
+# IP-CIDR,172.67.136.78/32,IPTV,no-resolve
+# IP-CIDR,172.67.180.124/32,IPTV,no-resolve
+# IP-CIDR,104.21.94.130/32,IPTV,no-resolve
 DOMAIN-SUFFIX,mytvsuper.xyz,Proxy
-# IP-CIDR,202.126.54.112/16,Proxy
+# IP-CIDR,202.126.54.112/8,Proxy
 # 韩国节目
 DOMAIN-SUFFIX,imbc.co.kr,Proxy
 DOMAIN-SUFFIX,imbc.com,Proxy
@@ -59,8 +57,8 @@ DOMAIN-SUFFIX,cdntv.tbs.seoul.kr,Proxy
 DOMAIN-SUFFIX,mytv.dothome.co.kr,Proxy
 DOMAIN-SUFFIX,hlive.ktv.go.kr,Proxy
 DOMAIN-SUFFIX,jcnonair-1108.acs.wecandeo.com,Proxy
-IP-CIDR,1.245.74.5/16,Proxy
-IP-CIDR,123.254.72.24/16,Proxy
+IP-CIDR,1.245.74.5/32,Proxy
+IP-CIDR,123.254.72.24/32,Proxy
 
 
 # 海外
